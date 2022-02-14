@@ -1,0 +1,9 @@
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Picture\bin\Debug\Comp_Info_Picture.dll
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Picture\bin\Debug\Comp_Info_Picture.pdb
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Picture\obj\Debug\Comp_Info_Picture.csproj.AssemblyReference.cache
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Picture\obj\Debug\Comp_Info_Picture.Control_conPicture.resources
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Picture\obj\Debug\Comp_Info_Picture.Properties.Resources.resources
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Picture\obj\Debug\Comp_Info_Picture.csproj.GenerateResource.cache
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Picture\obj\Debug\Comp_Info_Picture.csproj.CoreCompileInputs.cache
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Picture\obj\Debug\Comp_Info_Picture.dll
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Picture\obj\Debug\Comp_Info_Picture.pdb

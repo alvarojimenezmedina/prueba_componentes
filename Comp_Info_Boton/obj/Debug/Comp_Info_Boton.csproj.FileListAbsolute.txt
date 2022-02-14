@@ -1,0 +1,9 @@
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Boton\bin\Debug\Comp_Info_Boton.dll
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Boton\bin\Debug\Comp_Info_Boton.pdb
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Boton\obj\Debug\Comp_Info_Boton.csproj.AssemblyReference.cache
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Boton\obj\Debug\Comp_Info_Boton.Control_conBoton.resources
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Boton\obj\Debug\Comp_Info_Boton.Properties.Resources.resources
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Boton\obj\Debug\Comp_Info_Boton.csproj.GenerateResource.cache
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Boton\obj\Debug\Comp_Info_Boton.csproj.CoreCompileInputs.cache
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Boton\obj\Debug\Comp_Info_Boton.dll
+C:\Alvaro\DI\8. Proyecto\Comp_Info_Boton\obj\Debug\Comp_Info_Boton.pdb
